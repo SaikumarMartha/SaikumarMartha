@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saikumar Martha</h1>
 <h3 align="center">Aspiring Software Engineer, looking for full time opportunities.</h3>
 
-- 🔭 I’m currently Studying **Master's in Management Information Systems at May's Business School**
+- 🔭 I’m recently graduated with **Master's in Management Information Systems at May's Business School**
 
-- 🌱 I’m currently learning **Data Structures, Cloud Computing**
+- 🌱 I’m currently looking for full-time roles in **Software Engineering and Data Analyst roles**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/saikumarmartha](www.linkedin.com/in/saikumarmartha)
 
 - 💬 Ask me about **C#, Angular, Typescript**
 
-- 📫 How to reach me **marthasaikumar951028@gmail.com**
+- 📫 How to reach me **saikumar.martha10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
