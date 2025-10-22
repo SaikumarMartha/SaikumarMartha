@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'm Currently Working as  **Software Engineering at Radiance Technologies from Jul 2025 - Present**
 
-- 👨‍💻 My Previous Work Experiences  **Software Engineering at Dimensional Fund Advisors from Sept 2024 - Mar 2025 , Software Developer at Texas A&M AgriLife from May 2023 - May 2024, Software Developer at Tata Consultancy Services from Mar 2019 - Jul 2024**
+- 👨‍💻 My Previous Work Experiences  **Software Engineering at Dimensional Fund Advisors from Sept 2024 - Mar 2025, Software Developer at Texas A&M AgriLife from May 2023 - May 2024, Software Developer at Tata Consultancy Services from Mar 2019 - Jul 2024**
 
 - 🔭 Education **Master's in Management Information Systems at May's Business School May 2024, Bachelors in Mechanical Engineering at Lovely Professional University Jun 2017**
 
